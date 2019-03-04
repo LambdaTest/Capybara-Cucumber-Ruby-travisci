@@ -14,4 +14,4 @@ env:
     
 script:
   - bundle install
-  - bundle exec rake single
+  - bundle exec rake single jenkins
