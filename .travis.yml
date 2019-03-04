@@ -9,8 +9,8 @@ before_install:
 
 env:
   global:
-    - LT_USERNAME=deepakm
-    - LT_ACCESS_KEY=gIUJGTZtydrnSbdGro6Hm0yOJDfFBJWGZQ8FdyPA1rv07ZxxQA
+    - LT_USERNAME=${LAMBDATEST_USERNAME}
+    - LT_ACCESS_KEY=${LAMBDATEST_KEY}
     
 script:
   - bundle install
