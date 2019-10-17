@@ -9,7 +9,7 @@
  * For Linux/Mac: 
      Download RVM and install Ruby: curl -L https://get.rvm.io | bash -s stable --ruby
      
-## Lambdatest Credentials
+## LambdaTest Credentials
    * Set LambdaTest username and access key in environment variables. It can be obtained from [LambdaTest dashboard]   (https://automation.lambdatest.com/)     
    
    example:
@@ -43,7 +43,9 @@
 ## Notes
  * You can view your test results on the [Lambdatest Automate dashboard]
  * To test on a different set of browsers, check out our [platform configurator](http://labs.lambdatest.com/app-lambda/capabilities-generator/capabilities-generator.html)
-  
+## About LambdaTest
+[LambdaTest](https://www.lambdatest.com/) is a cloud based selenium grid infrastructure that can help you run automated cross browser compatibility tests on 2000+ different browser and operating system environments. All test data generated during testing including Selenium command logs, screenshots generated in testing, video logs, selenium logs, network logs, console logs, and metadata logs can be extracted using [LambdaTest automation APIs](https://www.lambdatest.com/support/docs/api-doc/). This data can then be used for creating custom reports.
+
 ### Resources
 
 ##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
