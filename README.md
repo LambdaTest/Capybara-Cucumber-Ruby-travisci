@@ -1,5 +1,5 @@
 # Capybara Selenium Sample
-![LambdaTest Logo](https://www.lambdatest.com/static/images/logo.svg)
+![LambdaTest Logo](https://www.lambdatest.com/resources/images/logos/logo.svg)
 
 ### Environment Setup
  * For Windows
